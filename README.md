@@ -24,9 +24,13 @@ Frontend Developer - SPIE (The International Society for Optics & Photonics)
 
 Web Developer - CodSoft
 
+Web Developer - Zidio Development
+
 **CONTACT :**
 
 **Gmail:** 4518gunjanarora@gmail.com 
+
+**Website:** https://gunjan-arora.netlify.app/
 
 **LinkedIn:** https://www.linkedin.com/in/gunjan-arora-4248462a9
 
