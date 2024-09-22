@@ -4,7 +4,7 @@ I'm a highly motivated and ambitious **Frontend Developer** from India, passiona
 
 **TECH STACKS I KNOW :**
 
-**Frontend Development:** HTML, CSS, JavaScript, React.js, React Native, Bootstrap, Tailwind CSS.
+**Frontend Development:** HTML, CSS, JavaScript, React.js, Next.js, React Native, Bootstrap, Tailwind CSS.
 
 **Version Control:** Git.
 
@@ -26,11 +26,17 @@ Web Developer - CodSoft
 
 Web Developer - Zidio Development
 
+Web Developer - Hex Softwares
+
+Campus Ambassador - Acmegrade
+
+Campus Ambassador - Learnflu
+
 **CONTACT :**
 
 **Gmail:** 4518gunjanarora@gmail.com 
 
-**Website:** https://gunjan-arora.netlify.app/
+**Website:** https://gunjanarora.netlify.app/
 
 **LinkedIn:** https://www.linkedin.com/in/gunjan-arora-4248462a9
 
