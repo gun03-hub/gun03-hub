@@ -1,59 +1,60 @@
-# **Gunjan Arora — Full Stack Developer | React | Next.js | Node.js**
-
-Full stack engineer building fast, scalable, and user-focused applications with strong frontend and backend expertise.
-
-## **About Me**
-
-* Currently working on a new project that will be released soon
-* Improving advanced TypeScript, Next.js performance patterns, and backend system design
-* Open to collaborating on meaningful open-source or real-world engineering problems
-* Portfolio: [https://gunjanarora.netlify.app](https://gunjanarora.netlify.app)
-* Medium: [https://medium.com/@4518gunjanarora](https://medium.com/@4518gunjanarora)
-* Contact: [4518gunjanarora@gmail.com](mailto:4518gunjanarora@gmail.com)
-
-## **What I Do**
-
-* Build full-stack applications using React, Next.js, Node.js, Express
-* Architect clean, scalable backend APIs (REST) with proper structure and auth
-* Design efficient MongoDB/MySQL data models
-* Implement UI/UX that feels modern, responsive, and purposeful
-* Integrate cloud, authentication, and deployment workflows
-* Write maintainable code with real-world best practices instead of tutorial-style hacks
-
-## **Connect With Me**
-
-<a href="https://twitter.com/gunjanaror36684" target="_blank">
-  <img src="https://skillicons.dev/icons?i=twitter" width="38"/>
-</a> 
-<a href="https://www.linkedin.com/in/gunjan-arora-4248462a9/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="38"/>
-</a>
-
-## **Tech Stack**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,redux,tailwind,html,css" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws,python,java,git,figma,opencv,pytorch,tensorflow" />
-</p>
-
-## **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gun03-hub&show_icons=true&theme=tokyonight" alt="Gunjan's Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gun03-hub&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gun03-hub&theme=tokyonight" alt="Gunjan's Streak" height="170"/>
-</p>
-
-## **Trophies**
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=gun03-hub&theme=onedark&margin-w=10&margin-h=10&no-frame=true" alt="trophy" />
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7BD&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Gunjan+Arora!+%F0%9F%91%8B;Full+Stack+Engineer+%7C+CS+Major" alt="Typing SVG" />
   </a>
-</p>
 
-## **Fun Fact**
+  <p>
+    <em>Bridging the gap between academic computer science and shipping real products.</em>
+  </p>
 
-I break down problems the same way I break down escape-room puzzles — logically, step-by-step, with zero wasted moves.
+  <p>
+    <a href="https://gunjanarora.netlify.app"><img src="https://img.shields.io/badge/Portfolio-%2320232a.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+    <a href="https://www.linkedin.com/in/gunjan-arora-4248462a9/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://medium.com/@4518gunjanarora"><img src="https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+    <a href="mailto:4518gunjanarora@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  </p>
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+I am a final-year **Computer Science** student at **Delhi University** with a builder's mindset. While most students focus only on theory, I have completed **13+ internships and projects**, shipping code that works in the real world.
+
+* **Currently:** Working on a new project that will be released soon.
+* **Learning:** Advanced **DBMS Architecture**, **React Native**, and **German (Deutsch)**.
+* **Core Strength:** I break down problems like escape-room puzzles—logically, step-by-step, with zero wasted moves.
+* **Hobby:** Exploring AI-assisted "vibe coding" workflows to build faster.
+
+---
+
+### 🚀 Tech Stack
+
+<div align="center">
+  <p>My technical arsenal for bringing ideas to life.</p>
+  
+  <p>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts&theme=dark" /><br/>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" /><br/>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase,postgres&theme=dark" /><br/>
+      <img src="https://skillicons.dev/icons?i=git,github,figma,vscode&theme=dark" />
+    </a>
+  </p>
+</div>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gun03-hub&theme=tokyonight" alt="stats graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gun03-hub&theme=tokyonight" alt="languages graph" />
+</div>
+
+---
+
+<div align="center">
+  <h3>👾 Contribution Activity</h3>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gun03-hub&theme=tokyonight" alt="3D contributions" />
+</div>
