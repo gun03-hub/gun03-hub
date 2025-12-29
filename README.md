@@ -22,7 +22,12 @@ Full stack engineer building fast, scalable, and user-focused applications with 
 
 ## **Connect With Me**
 
-<a href="https://twitter.com/gunjanaror36684" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" width="38"/></a> <a href="https://www.linkedin.com/in/gunjan-arora-4248462a9/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="38"/></a>
+<a href="https://twitter.com/gunjanaror36684" target="_blank">
+  <img src="https://skillicons.dev/icons?i=twitter" width="38"/>
+</a> 
+<a href="https://www.linkedin.com/in/gunjan-arora-4248462a9/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="38"/>
+</a>
 
 ## **Tech Stack**
 
@@ -35,19 +40,20 @@ Full stack engineer building fast, scalable, and user-focused applications with 
 ## **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gun03-hub&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gun03-hub&layout=compact&theme=tokyonight" height="150"/>
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=gun03-hub&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=gun03-hub&show_icons=true&theme=tokyonight" alt="Gunjan's Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gun03-hub&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=gun03-hub&theme=tokyonight" alt="Gunjan's Streak" height="170"/>
 </p>
 
 ## **Trophies**
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gun03-hub&theme=onedark&margin-w=10&margin-h=10"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=gun03-hub&theme=onedark&margin-w=10&margin-h=10&no-frame=true" alt="trophy" />
+  </a>
 </p>
 
 ## **Fun Fact**
 
 I break down problems the same way I break down escape-room puzzles — logically, step-by-step, with zero wasted moves.
-
